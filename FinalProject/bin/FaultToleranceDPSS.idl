@@ -1,0 +1,19 @@
+module FaultToleranceDPSS {
+
+typedef sequence<string> ResultList;
+
+interface DPSS_FT
+	{
+	    boolean logIn(in string userName, in string Password, in string ipAddress);
+		boolean createPlayerAccount(in string firstName, in string lastName, in long Age, in string userName, in string Password, in string IPAddress);
+		boolean logOut(in string userName);
+		ResultList getPlayerUpdate(in string adminId);
+		boolean suspendAccount(in string adminId, in string adminPword, in string adminIp, in string suspendAccount) ;
+		boolean transferAccount(in string userName,in string Password, in string oldIp, in string newIp) ;
+//		string logIn(in string userName);
+		
+		
+		oneway void shutdown();
+		};
+	
+};

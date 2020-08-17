@@ -1,0 +1,482 @@
+12/08/2020 03:45:49.470 - [INFO] - EU UDP Server Started............
+12/08/2020 03:45:49.470 - [INFO] - NA UDP Server Started............
+12/08/2020 03:45:49.470 - [INFO] - AS UDP Server Started............
+12/08/2020 03:45:49.470 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:45:49.501 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+12/08/2020 03:45:49.501 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:45:49.501 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+12/08/2020 03:45:49.501 - [INFO] - New Account Created  Server[ AS ] user Name: soma2000
+12/08/2020 03:45:49.501 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:45:49.501 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+12/08/2020 03:45:49.501 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:45:49.501 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+12/08/2020 03:45:49.501 - [INFO] - New Account Created  Server[ NA ] user Name: sami2014
+12/08/2020 03:45:49.501 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:45:49.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+12/08/2020 03:45:49.517 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:45:49.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+12/08/2020 03:45:49.517 - [INFO] - New Account Created  Server[ EU ] user Name: jami2020
+12/08/2020 03:45:49.517 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:45:49.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+12/08/2020 03:45:49.517 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:45:49.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+12/08/2020 03:45:49.517 - [INFO] - New Account Created  Server[ EU ] user Name: rokib2000
+12/08/2020 03:45:49.517 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:45:49.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+12/08/2020 03:45:49.517 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:45:49.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+12/08/2020 03:45:49.517 - [INFO] - New Account Created  Server[ AS ] user Name: rimjhim2020
+12/08/2020 03:45:49.517 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:45:49.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+12/08/2020 03:45:49.517 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:45:49.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+12/08/2020 03:45:49.517 - [INFO] - New Account Created  Server[ EU ] user Name: arif2000
+12/08/2020 03:45:49.517 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:45:49.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+12/08/2020 03:45:49.517 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:45:49.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+12/08/2020 03:45:49.517 - [INFO] - New Account Created  Server[ NA ] user Name: robi1000
+12/08/2020 03:45:49.517 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:45:49.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+12/08/2020 03:45:49.517 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:45:49.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+12/08/2020 03:45:49.532 - [INFO] - New Account Created  Server[ NA ] user Name: roma1000
+12/08/2020 03:48:08.748 - [INFO] - Making UPD Socket Call to EU Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 03:48:08.748 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 03:48:08.764 - [INFO] - Making UPD Socket Call to AS Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 03:48:08.764 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 03:48:18.751 - [INFO] - Making UPD Socket Call to EU Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 03:48:18.751 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 03:48:18.751 - [INFO] - Making UPD Socket Call to AS Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 03:48:18.751 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 03:49:18.046 - [INFO] - LogOUT:  Server[ NA ] user Name: sami2014
+12/08/2020 04:01:03.801 - [INFO] - AS UDP Server Started............
+12/08/2020 04:01:03.801 - [INFO] - NA UDP Server Started............
+12/08/2020 04:01:03.801 - [INFO] - EU UDP Server Started............
+12/08/2020 04:01:03.817 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 04:01:03.848 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+12/08/2020 04:01:03.848 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 04:01:03.848 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+12/08/2020 04:01:03.848 - [INFO] - New Account Created  Server[ AS ] user Name: soma2000
+12/08/2020 04:01:03.848 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 04:01:03.848 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+12/08/2020 04:01:03.848 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 04:01:03.848 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+12/08/2020 04:01:03.848 - [INFO] - New Account Created  Server[ NA ] user Name: sami2014
+12/08/2020 04:01:03.848 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 04:01:03.848 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+12/08/2020 04:01:03.848 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 04:01:03.848 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+12/08/2020 04:01:03.848 - [INFO] - New Account Created  Server[ EU ] user Name: jami2020
+12/08/2020 04:01:03.848 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 04:01:03.848 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+12/08/2020 04:01:03.848 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 04:01:03.864 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+12/08/2020 04:01:03.864 - [INFO] - New Account Created  Server[ EU ] user Name: rokib2000
+12/08/2020 04:01:03.864 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 04:01:03.864 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+12/08/2020 04:01:03.864 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 04:01:03.864 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+12/08/2020 04:01:03.864 - [INFO] - New Account Created  Server[ AS ] user Name: rimjhim2020
+12/08/2020 04:01:03.864 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 04:01:03.864 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+12/08/2020 04:01:03.864 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 04:01:03.864 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+12/08/2020 04:01:03.864 - [INFO] - New Account Created  Server[ EU ] user Name: arif2000
+12/08/2020 04:01:03.864 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 04:01:03.864 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+12/08/2020 04:01:03.864 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 04:01:03.864 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+12/08/2020 04:01:03.864 - [INFO] - New Account Created  Server[ NA ] user Name: robi1000
+12/08/2020 04:01:03.864 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 04:01:03.864 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+12/08/2020 04:01:03.864 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 04:01:03.864 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+12/08/2020 04:01:03.864 - [INFO] - New Account Created  Server[ NA ] user Name: roma1000
+12/08/2020 04:02:10.191 - [INFO] - Making UPD Socket Call to EU Server for method : createAccount
+12/08/2020 04:02:10.191 - [INFO] - Received UDP Socket call for method[createAccount] with parameters[Sami Islam 7 sami2014 sami2014 93.123.123.123]
+12/08/2020 04:02:10.191 - [INFO] - New Account Created  Server[ EU ] user Name: sami2014
+12/08/2020 04:02:10.191 - [INFO] - Account Transferd: From Server[ 132.123.123.123 ] to Server[ 93.123.123.123 ] user Name : sami2014
+12/08/2020 04:03:03.827 - [INFO] - Making UPD Socket Call to NA Server for method : createAccount
+12/08/2020 04:03:03.827 - [INFO] - Received UDP Socket call for method[createAccount] with parameters[Sami Islam 7 sami2014 sami2014 132.123.123.123]
+12/08/2020 04:03:03.827 - [INFO] - New Account Created  Server[ NA ] user Name: sami2014
+12/08/2020 04:03:03.827 - [INFO] - Account Transferd: From Server[ 93.123.123.123 ] to Server[ 132.123.123.123 ] user Name : sami2014
+12/08/2020 04:03:17.767 - [INFO] - LogOUT:  Server[ NA ] user Name: sami2014
+12/08/2020 01:30:53.891 - [INFO] - EU UDP Server Started............
+12/08/2020 01:30:53.891 - [INFO] - NA UDP Server Started............
+12/08/2020 01:30:53.891 - [INFO] - AS UDP Server Started............
+12/08/2020 01:30:53.891 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 01:30:53.954 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+12/08/2020 01:30:53.954 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 01:30:53.954 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+12/08/2020 01:30:53.954 - [INFO] - New Account Created  Server[ AS ] user Name: soma2000
+12/08/2020 01:30:53.954 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 01:30:53.954 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+12/08/2020 01:30:53.954 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 01:30:53.954 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+12/08/2020 01:30:53.954 - [INFO] - New Account Created  Server[ NA ] user Name: sami2014
+12/08/2020 01:30:53.954 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 01:30:53.954 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+12/08/2020 01:30:53.954 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 01:30:53.954 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+12/08/2020 01:30:53.954 - [INFO] - New Account Created  Server[ EU ] user Name: jami2020
+12/08/2020 01:30:53.954 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 01:30:53.969 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+12/08/2020 01:30:53.969 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 01:30:53.969 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+12/08/2020 01:30:53.969 - [INFO] - New Account Created  Server[ EU ] user Name: rokib2000
+12/08/2020 01:30:53.969 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 01:30:53.969 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+12/08/2020 01:30:53.969 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 01:30:53.969 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+12/08/2020 01:30:53.969 - [INFO] - New Account Created  Server[ AS ] user Name: rimjhim2020
+12/08/2020 01:30:53.969 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 01:30:53.969 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+12/08/2020 01:30:53.969 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 01:30:53.969 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+12/08/2020 01:30:53.969 - [INFO] - New Account Created  Server[ EU ] user Name: arif2000
+12/08/2020 01:30:53.969 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 01:30:53.969 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+12/08/2020 01:30:53.969 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 01:30:53.969 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+12/08/2020 01:30:53.969 - [INFO] - New Account Created  Server[ NA ] user Name: robi1000
+12/08/2020 01:30:53.969 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 01:30:53.969 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+12/08/2020 01:30:53.969 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 01:30:53.985 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+12/08/2020 01:30:53.985 - [INFO] - New Account Created  Server[ NA ] user Name: roma1000
+12/08/2020 01:31:43.091 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 01:31:43.091 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[abc1234]
+12/08/2020 01:31:43.091 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 01:31:43.091 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[abc1234]
+12/08/2020 01:31:43.091 - [INFO] - New Account Created  Server[ EU ] user Name: abc1234
+12/08/2020 01:32:15.928 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 01:32:15.928 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 01:32:15.928 - [INFO] - Making UPD Socket Call to AS Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 01:32:15.928 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 01:32:35.915 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 01:32:35.915 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 01:32:35.915 - [INFO] - Making UPD Socket Call to AS Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 01:32:35.915 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 01:32:56.622 - [INFO] - LogOUT:  Server[ EU ] user Name: abc1234
+12/08/2020 01:33:58.761 - [INFO] - Making UPD Socket Call to AS Server for method : createAccount
+12/08/2020 01:33:58.761 - [INFO] - Received UDP Socket call for method[createAccount] with parameters[abc abc 33 abc1234 abcd1234 182.123.123.123]
+12/08/2020 01:33:58.769 - [INFO] - New Account Created  Server[ AS ] user Name: abc1234
+12/08/2020 01:33:58.769 - [INFO] - Account Transferd: From Server[ 93.123.123.123 ] to Server[ 182.123.123.123 ] user Name : abc1234
+12/08/2020 01:34:21.063 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 01:34:21.063 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 01:34:21.063 - [INFO] - Making UPD Socket Call to EU Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 01:34:21.063 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 01:34:31.049 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 01:34:31.049 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 01:34:31.049 - [INFO] - Making UPD Socket Call to EU Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 01:34:31.049 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 01:35:31.248 - [INFO] - LogOUT:  Server[ AS ] user Name: abc1234
+12/08/2020 01:35:59.801 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 01:35:59.801 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 01:35:59.801 - [INFO] - Making UPD Socket Call to EU Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 01:35:59.801 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 01:37:29.116 - [INFO] - Making UPD Socket Call to NA Server for method : suspendAccountFromCurrecntServer
+12/08/2020 01:37:29.116 - [INFO] - Received UDP Socket call for method[suspendAccountFromCurrecntServer] with parameters[abc123]
+12/08/2020 01:37:29.116 - [INFO] - Making UPD Socket Call to EU Server for method : suspendAccountFromCurrecntServer
+12/08/2020 01:37:29.116 - [INFO] - Received UDP Socket call for method[suspendAccountFromCurrecntServer] with parameters[abc123]
+12/08/2020 01:53:41.266 - [INFO] - EU UDP Server Started............
+12/08/2020 01:53:41.266 - [INFO] - NA UDP Server Started............
+12/08/2020 01:53:41.266 - [INFO] - AS UDP Server Started............
+12/08/2020 01:53:41.281 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 01:53:41.328 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+12/08/2020 01:53:41.328 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 01:53:41.328 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+12/08/2020 01:53:41.328 - [INFO] - New Account Created  Server[ AS ] user Name: soma2000
+12/08/2020 01:53:41.328 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 01:53:41.328 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+12/08/2020 01:53:41.328 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 01:53:41.328 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+12/08/2020 01:53:41.328 - [INFO] - New Account Created  Server[ NA ] user Name: sami2014
+12/08/2020 01:53:41.328 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 01:53:41.328 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+12/08/2020 01:53:41.328 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 01:53:41.328 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+12/08/2020 01:53:41.328 - [INFO] - New Account Created  Server[ EU ] user Name: jami2020
+12/08/2020 01:53:41.328 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 01:53:41.344 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+12/08/2020 01:53:41.344 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 01:53:41.344 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+12/08/2020 01:53:41.344 - [INFO] - New Account Created  Server[ EU ] user Name: rokib2000
+12/08/2020 01:53:41.344 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 01:53:41.344 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+12/08/2020 01:53:41.344 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 01:53:41.344 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+12/08/2020 01:53:41.344 - [INFO] - New Account Created  Server[ AS ] user Name: rimjhim2020
+12/08/2020 01:53:41.344 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 01:53:41.344 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+12/08/2020 01:53:41.344 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 01:53:41.344 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+12/08/2020 01:53:41.344 - [INFO] - New Account Created  Server[ EU ] user Name: arif2000
+12/08/2020 01:53:41.344 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 01:53:41.344 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+12/08/2020 01:53:41.344 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 01:53:41.344 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+12/08/2020 01:53:41.344 - [INFO] - New Account Created  Server[ NA ] user Name: robi1000
+12/08/2020 01:53:41.344 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 01:53:41.344 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+12/08/2020 01:53:41.344 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 01:53:41.359 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+12/08/2020 01:53:41.359 - [INFO] - New Account Created  Server[ NA ] user Name: roma1000
+12/08/2020 01:54:34.175 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 01:54:34.183 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[abcd123]
+12/08/2020 01:54:34.183 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 01:54:34.183 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[abcd123]
+12/08/2020 01:54:34.183 - [INFO] - New Account Created  Server[ EU ] user Name: abcd123
+12/08/2020 01:55:12.473 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 01:55:12.473 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 01:55:12.489 - [INFO] - Making UPD Socket Call to AS Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 01:55:12.489 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 01:55:27.475 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 01:55:27.475 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 01:55:27.475 - [INFO] - Making UPD Socket Call to AS Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 01:55:27.475 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 01:56:19.095 - [INFO] - Making UPD Socket Call to AS Server for method : createAccount
+12/08/2020 01:56:19.095 - [INFO] - Received UDP Socket call for method[createAccount] with parameters[abcd123 abcd123 33 abcd123 abcd123 182.123.123.123]
+12/08/2020 01:56:19.111 - [INFO] - New Account Created  Server[ AS ] user Name: abcd123
+12/08/2020 01:56:19.111 - [INFO] - Account Transferd: From Server[ 93.123.123.123 ] to Server[ 182.123.123.123 ] user Name : abcd123
+12/08/2020 02:02:31.237 - [INFO] - LogOUT:  Server[ AS ] user Name: abcd123
+12/08/2020 02:02:53.799 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:02:53.807 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:02:53.807 - [INFO] - Making UPD Socket Call to EU Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:02:53.812 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:03:03.810 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:03:03.810 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:03:03.825 - [INFO] - Making UPD Socket Call to EU Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:03:03.825 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:06:57.332 - [INFO] - AS UDP Server Started............
+12/08/2020 02:06:57.332 - [INFO] - NA UDP Server Started............
+12/08/2020 02:06:57.332 - [INFO] - EU UDP Server Started............
+12/08/2020 02:06:57.340 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 02:06:57.380 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+12/08/2020 02:06:57.380 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 02:06:57.380 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+12/08/2020 02:06:57.380 - [INFO] - New Account Created  Server[ AS ] user Name: soma2000
+12/08/2020 02:06:57.380 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 02:06:57.388 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+12/08/2020 02:06:57.388 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 02:06:57.388 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+12/08/2020 02:06:57.388 - [INFO] - New Account Created  Server[ NA ] user Name: sami2014
+12/08/2020 02:06:57.388 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 02:06:57.388 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+12/08/2020 02:06:57.388 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 02:06:57.388 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+12/08/2020 02:06:57.388 - [INFO] - New Account Created  Server[ EU ] user Name: jami2020
+12/08/2020 02:06:57.388 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 02:06:57.388 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+12/08/2020 02:06:57.388 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 02:06:57.396 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+12/08/2020 02:06:57.396 - [INFO] - New Account Created  Server[ EU ] user Name: rokib2000
+12/08/2020 02:06:57.396 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 02:06:57.396 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+12/08/2020 02:06:57.396 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 02:06:57.396 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+12/08/2020 02:06:57.396 - [INFO] - New Account Created  Server[ AS ] user Name: rimjhim2020
+12/08/2020 02:06:57.396 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 02:06:57.396 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+12/08/2020 02:06:57.396 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 02:06:57.396 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+12/08/2020 02:06:57.396 - [INFO] - New Account Created  Server[ EU ] user Name: arif2000
+12/08/2020 02:06:57.396 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 02:06:57.404 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+12/08/2020 02:06:57.404 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 02:06:57.404 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+12/08/2020 02:06:57.404 - [INFO] - New Account Created  Server[ NA ] user Name: robi1000
+12/08/2020 02:06:57.404 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 02:06:57.404 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+12/08/2020 02:06:57.404 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 02:06:57.404 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+12/08/2020 02:06:57.404 - [INFO] - New Account Created  Server[ NA ] user Name: roma1000
+12/08/2020 02:07:33.664 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 02:07:33.664 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[abcd1234]
+12/08/2020 02:07:33.664 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 02:07:33.679 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[abcd1234]
+12/08/2020 02:07:33.679 - [INFO] - New Account Created  Server[ EU ] user Name: abcd1234
+12/08/2020 02:10:01.584 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:10:01.584 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:10:01.599 - [INFO] - Making UPD Socket Call to AS Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:10:01.599 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:10:16.599 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:10:16.599 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:10:16.599 - [INFO] - Making UPD Socket Call to AS Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:10:16.599 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:12:11.319 - [INFO] - Making UPD Socket Call to AS Server for method : createAccount
+12/08/2020 02:12:11.319 - [INFO] - Received UDP Socket call for method[createAccount] with parameters[abcd abcd 33 abcd1234 abcd1234 182.123.123.123]
+12/08/2020 02:12:11.350 - [INFO] - New Account Created  Server[ AS ] user Name: abcd1234
+12/08/2020 02:12:11.350 - [INFO] - Account Transferd: From Server[ 93.123.123.123 ] to Server[ 182.123.123.123 ] user Name : abcd1234
+12/08/2020 02:12:30.835 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:12:30.835 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:12:30.835 - [INFO] - Making UPD Socket Call to EU Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:12:30.835 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:12:45.850 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:12:45.850 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:12:45.850 - [INFO] - Making UPD Socket Call to EU Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:12:45.850 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:13:16.407 - [INFO] - LogOUT:  Server[ AS ] user Name: abcd1234
+12/08/2020 02:13:43.754 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:13:43.754 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:13:43.754 - [INFO] - Making UPD Socket Call to EU Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:13:43.770 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:15:14.582 - [INFO] - LogOUT:  Server[ AS ] user Name: abcd1234
+12/08/2020 02:15:46.871 - [INFO] - Making UPD Socket Call to NA Server for method : suspendAccountFromCurrecntServer
+12/08/2020 02:15:46.871 - [INFO] - Received UDP Socket call for method[suspendAccountFromCurrecntServer] with parameters[abcd1234]
+12/08/2020 02:15:46.871 - [INFO] - Making UPD Socket Call to EU Server for method : suspendAccountFromCurrecntServer
+12/08/2020 02:15:46.871 - [INFO] - Received UDP Socket call for method[suspendAccountFromCurrecntServer] with parameters[abcd1234]
+12/08/2020 02:15:46.871 - [INFO] - Account Suspected: From Server[ AS ] by Admin ID : admin
+12/08/2020 02:18:17.724 - [INFO] - Making UPD Socket Call to NA Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:18:17.724 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:18:17.724 - [INFO] - Making UPD Socket Call to EU Server for method : getPlayerUpdateForCurrentServer
+12/08/2020 02:18:17.724 - [INFO] - Received UDP Socket call for method[getPlayerUpdateForCurrentServer] with parameters[admin]
+12/08/2020 02:19:20.087 - [INFO] - LogOUT:  Server[ AS ] user Name: soma2000
+12/08/2020 02:20:49.446 - [INFO] - LogOUT:  Server[ NA ] user Name: robi1000
+12/08/2020 03:01:29.470 - [INFO] - AS UDP Server Started............
+12/08/2020 03:01:29.470 - [INFO] - NA UDP Server Started............
+12/08/2020 03:01:29.470 - [INFO] - EU UDP Server Started............
+12/08/2020 03:01:29.470 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:01:29.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+12/08/2020 03:01:29.517 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:01:29.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+12/08/2020 03:01:29.517 - [INFO] - New Account Created  Server[ AS ] user Name: soma2000
+12/08/2020 03:01:29.517 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:01:29.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+12/08/2020 03:01:29.517 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:01:29.517 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+12/08/2020 03:01:29.517 - [INFO] - New Account Created  Server[ NA ] user Name: sami2014
+12/08/2020 03:01:29.517 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:01:29.533 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+12/08/2020 03:01:29.533 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:01:29.533 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+12/08/2020 03:01:29.533 - [INFO] - New Account Created  Server[ EU ] user Name: jami2020
+12/08/2020 03:01:29.533 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:01:29.533 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+12/08/2020 03:01:29.533 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:01:29.533 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+12/08/2020 03:01:29.533 - [INFO] - New Account Created  Server[ EU ] user Name: rokib2000
+12/08/2020 03:01:29.533 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:01:29.533 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+12/08/2020 03:01:29.533 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:01:29.533 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+12/08/2020 03:01:29.533 - [INFO] - New Account Created  Server[ AS ] user Name: rimjhim2020
+12/08/2020 03:01:29.533 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:01:29.533 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+12/08/2020 03:01:29.533 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:01:29.533 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+12/08/2020 03:01:29.533 - [INFO] - New Account Created  Server[ EU ] user Name: arif2000
+12/08/2020 03:01:29.533 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:01:29.533 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+12/08/2020 03:01:29.533 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:01:29.533 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+12/08/2020 03:01:29.533 - [INFO] - New Account Created  Server[ NA ] user Name: robi1000
+12/08/2020 03:01:29.533 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:01:29.548 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+12/08/2020 03:01:29.548 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:01:29.548 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+12/08/2020 03:01:29.548 - [INFO] - New Account Created  Server[ NA ] user Name: roma1000
+12/08/2020 03:02:18.183 - [INFO] - Making UPD Socket Call to AS Server for method : createAccount
+12/08/2020 03:02:18.183 - [INFO] - Received UDP Socket call for method[createAccount] with parameters[Sami Islam 7 sami2014 sami2014 182.123.123.123]
+12/08/2020 03:02:18.199 - [INFO] - New Account Created  Server[ AS ] user Name: sami2014
+12/08/2020 03:02:18.199 - [INFO] - Account Transferd: From Server[ 132.123.123.123 ] to Server[ 182.123.123.123 ] user Name : sami2014
+12/08/2020 03:07:53.737 - [INFO] - LogOUT:  Server[ AS ] user Name: sami2014
+12/08/2020 03:27:24.204 - [INFO] - EU UDP Server Started............
+12/08/2020 03:27:24.204 - [INFO] - AS UDP Server Started............
+12/08/2020 03:27:24.204 - [INFO] - NA UDP Server Started............
+12/08/2020 03:27:24.204 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:27:24.251 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+12/08/2020 03:27:24.251 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:27:24.251 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+12/08/2020 03:27:24.251 - [INFO] - New Account Created  Server[ AS ] user Name: soma2000
+12/08/2020 03:27:24.251 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:27:24.251 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+12/08/2020 03:27:24.251 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:27:24.251 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+12/08/2020 03:27:24.251 - [INFO] - New Account Created  Server[ NA ] user Name: sami2014
+12/08/2020 03:27:24.251 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:27:24.267 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+12/08/2020 03:27:24.267 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:27:24.267 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+12/08/2020 03:27:24.267 - [INFO] - New Account Created  Server[ EU ] user Name: jami2020
+12/08/2020 03:27:24.267 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:27:24.267 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+12/08/2020 03:27:24.267 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:27:24.267 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+12/08/2020 03:27:24.267 - [INFO] - New Account Created  Server[ EU ] user Name: rokib2000
+12/08/2020 03:27:24.267 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:27:24.267 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+12/08/2020 03:27:24.267 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:27:24.267 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+12/08/2020 03:27:24.267 - [INFO] - New Account Created  Server[ AS ] user Name: rimjhim2020
+12/08/2020 03:27:24.267 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+12/08/2020 03:27:24.267 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+12/08/2020 03:27:24.267 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:27:24.267 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+12/08/2020 03:27:24.267 - [INFO] - New Account Created  Server[ EU ] user Name: arif2000
+12/08/2020 03:27:24.267 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:27:24.267 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+12/08/2020 03:27:24.267 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:27:24.267 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+12/08/2020 03:27:24.267 - [INFO] - New Account Created  Server[ NA ] user Name: robi1000
+12/08/2020 03:27:24.267 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+12/08/2020 03:27:24.282 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+12/08/2020 03:27:24.282 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+12/08/2020 03:27:24.282 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+12/08/2020 03:27:24.282 - [INFO] - New Account Created  Server[ NA ] user Name: roma1000
+12/08/2020 03:35:14.187 - [INFO] - LogOUT:  Server[ NA ] user Name: sami2014
+13/08/2020 09:20:00.389 - [INFO] - AS UDP Server Started............
+13/08/2020 09:20:00.389 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+13/08/2020 09:20:00.389 - [INFO] - NA UDP Server Started............
+13/08/2020 09:20:00.389 - [INFO] - EU UDP Server Started............
+13/08/2020 09:20:00.451 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+13/08/2020 09:20:00.467 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+13/08/2020 09:20:00.467 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[soma2000]
+13/08/2020 09:20:00.467 - [INFO] - New Account Created  Server[ AS ] user Name: soma2000
+13/08/2020 09:20:00.467 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+13/08/2020 09:20:00.467 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+13/08/2020 09:20:00.467 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+13/08/2020 09:20:00.467 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[sami2014]
+13/08/2020 09:20:00.467 - [INFO] - New Account Created  Server[ NA ] user Name: sami2014
+13/08/2020 09:20:00.467 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+13/08/2020 09:20:00.467 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+13/08/2020 09:20:00.467 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+13/08/2020 09:20:00.467 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[jami2020]
+13/08/2020 09:20:00.467 - [INFO] - New Account Created  Server[ EU ] user Name: jami2020
+13/08/2020 09:20:00.467 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+13/08/2020 09:20:00.467 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+13/08/2020 09:20:00.467 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+13/08/2020 09:20:00.467 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rokib2000]
+13/08/2020 09:20:00.467 - [INFO] - New Account Created  Server[ EU ] user Name: rokib2000
+13/08/2020 09:20:00.467 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+13/08/2020 09:20:00.467 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+13/08/2020 09:20:00.467 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+13/08/2020 09:20:00.467 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[rimjhim2020]
+13/08/2020 09:20:00.483 - [INFO] - New Account Created  Server[ AS ] user Name: rimjhim2020
+13/08/2020 09:20:00.483 - [INFO] - Making UPD Socket Call to NA Server for method : isUserNameExist
+13/08/2020 09:20:00.483 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+13/08/2020 09:20:00.483 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+13/08/2020 09:20:00.483 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[arif2000]
+13/08/2020 09:20:00.483 - [INFO] - New Account Created  Server[ EU ] user Name: arif2000
+13/08/2020 09:20:00.483 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+13/08/2020 09:20:00.483 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+13/08/2020 09:20:00.483 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+13/08/2020 09:20:00.483 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[robi1000]
+13/08/2020 09:20:00.483 - [INFO] - New Account Created  Server[ NA ] user Name: robi1000
+13/08/2020 09:20:00.483 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+13/08/2020 09:20:00.483 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+13/08/2020 09:20:00.483 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+13/08/2020 09:20:00.483 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[roma1000]
+13/08/2020 09:20:00.483 - [INFO] - New Account Created  Server[ NA ] user Name: roma1000
+13/08/2020 09:21:22.068 - [INFO] - Making UPD Socket Call to EU Server for method : isUserNameExist
+13/08/2020 09:21:22.084 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[abcd123]
+13/08/2020 09:21:22.084 - [INFO] - Making UPD Socket Call to AS Server for method : isUserNameExist
+13/08/2020 09:21:22.084 - [INFO] - Received UDP Socket call for method[isUserNameExist] with parameters[abcd123]
+13/08/2020 09:21:22.084 - [INFO] - New Account Created  Server[ NA ] user Name: abcd123
+13/08/2020 09:22:22.042 - [INFO] - Making UPD Socket Call to AS Server for method : createAccount
+13/08/2020 09:22:22.042 - [INFO] - Received UDP Socket call for method[createAccount] with parameters[abcd abcd 4 abcd123 abcd123 182.123.123.123]
+13/08/2020 09:22:22.057 - [INFO] - New Account Created  Server[ AS ] user Name: abcd123
+13/08/2020 09:22:22.057 - [INFO] - Account Transferd: From Server[ 132.123.123.123 ] to Server[ 182.123.123.123 ] user Name : abcd123
+13/08/2020 09:22:33.888 - [INFO] - LogOUT:  Server[ AS ] user Name: abcd123
+13/08/2020 09:25:29.173 - [INFO] - LogOUT:  Server[ AS ] user Name: abcd123

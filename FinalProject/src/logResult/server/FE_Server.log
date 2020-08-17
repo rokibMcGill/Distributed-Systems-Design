@@ -1,0 +1,33 @@
+12/08/2020 03:47:10.295 - [INFO] - LogIN:  Server[ NA ] user Name: sami2014
+12/08/2020 04:01:39.387 - [INFO] - LogIN:  Server[ NA ] user Name: sami2014
+12/08/2020 04:02:20.177 - [INFO] - User[ sami2014 ] Account Transfer Successfully,  To New Sever[ EU ]
+12/08/2020 04:03:13.829 - [INFO] - User[ sami2014 ] Account Transfer Successfully,  To New Sever[ NA ]
+12/08/2020 04:03:27.770 - [INFO] - User[ sami2014 ] LogOut Successfully,  Sever[ NA ]
+12/08/2020 01:31:53.080 - [INFO] - Player's Account Successfully Created :User[ abc1234 ]
+12/08/2020 01:33:06.624 - [INFO] - User[ abc1234 ] LogOut Successfully,  Sever[ EU ]
+12/08/2020 01:33:42.522 - [INFO] - LogIN:  Server[ EU ] user Name: abc1234
+12/08/2020 01:34:08.748 - [INFO] - User[ abc1234 ] Account Transfer Successfully,  To New Sever[ AS ]
+12/08/2020 01:35:41.234 - [INFO] - User[ abc1234 ] LogOut Successfully,  Sever[ AS ]
+12/08/2020 01:54:44.186 - [INFO] - Player's Account Successfully Created :User[ abcd123 ]
+12/08/2020 01:56:29.110 - [INFO] - User[ abcd123 ] Account Transfer Successfully,  To New Sever[ AS ]
+12/08/2020 02:02:41.248 - [INFO] - User[ abcd123 ] LogOut Successfully,  Sever[ AS ]
+12/08/2020 02:07:43.656 - [INFO] - Player's Account Successfully Created :User[ abcd1234 ]
+12/08/2020 02:12:21.339 - [INFO] - User[ abcd1234 ] Account Transfer Successfully,  To New Sever[ AS ]
+12/08/2020 02:13:26.433 - [INFO] - User[ abcd1234 ] LogOut Successfully,  Sever[ AS ]
+12/08/2020 02:15:07.806 - [INFO] - LogIN:  Server[ AS ] user Name: abcd1234
+12/08/2020 02:15:24.583 - [INFO] - User[ abcd1234 ] LogOut Successfully,  Sever[ AS ]
+12/08/2020 02:15:56.878 - [INFO] - Admin admin Invoke Player Update from server : AS
+12/08/2020 02:19:14.356 - [INFO] - LogIN:  Server[ AS ] user Name: soma2000
+12/08/2020 02:19:30.102 - [INFO] - User[ soma2000 ] LogOut Successfully,  Sever[ AS ]
+12/08/2020 02:20:26.194 - [INFO] - LogIN:  Server[ NA ] user Name: robi1000
+12/08/2020 02:20:59.449 - [INFO] - User[ robi1000 ] LogOut Successfully,  Sever[ NA ]
+12/08/2020 03:02:07.720 - [INFO] - LogIN:  Server[ NA ] user Name: sami2014
+12/08/2020 03:02:28.183 - [INFO] - User[ sami2014 ] Account Transfer Successfully,  To New Sever[ AS ]
+12/08/2020 03:08:03.755 - [INFO] - User[ sami2014 ] LogOut Successfully,  Sever[ AS ]
+12/08/2020 03:33:18.168 - [INFO] - LogIN:  Server[ NA ] user Name: sami2014
+12/08/2020 03:35:24.183 - [INFO] - User[ sami2014 ] LogOut Successfully,  Sever[ NA ]
+13/08/2020 09:21:32.039 - [INFO] - Player's Account Successfully Created :User[ abcd123 ]
+13/08/2020 09:22:32.012 - [INFO] - User[ abcd123 ] Account Transfer Successfully,  To New Sever[ AS ]
+13/08/2020 09:22:43.890 - [INFO] - User[ abcd123 ] LogOut Successfully,  Sever[ AS ]
+13/08/2020 09:25:12.091 - [INFO] - LogIN:  Server[ AS ] user Name: abcd123
+13/08/2020 09:25:39.175 - [INFO] - User[ abcd123 ] LogOut Successfully,  Sever[ AS ]
