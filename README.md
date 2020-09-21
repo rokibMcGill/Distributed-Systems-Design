@@ -39,3 +39,4 @@ Clients only can communication channel with Front-End (FE) server.  We have impl
 
 The communication Sequencer to RMs are done by multicast UDP/IP connection. Communication between individual RM and corresponding servers have been established by the UDP connection. Each Replica server and FE communicate with each other by reliable UDP/IP connection. Within group, if the operation requires data from other geolocation servers, then the server makes a UDP request to the target server and gets the required data using a socket communication. 
 
+![model_view](modeldiagram.png)
